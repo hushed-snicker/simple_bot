@@ -1,0 +1,12 @@
+A discussion on the structure of a conversation, from the beginning to the end.
+
+-When a conversation starts, there is normally a greeting			1)Hello.
+-After the greeting is given by one party, it is reciprocated by the other
+ party as a sign of acknowledgement. If the Greeting is a question, then
+ the question is answered.							2)Hello.
+-After the initial greeting, the conversation starter brings up a question,
+ states a statement, or states a command.					1)Stop dismantling the conversation we're having
+-The recipient of the remark determines question, statement, or command		2)<Determines previous remark was a command>
+-Recipient calculates possible responses to command				2)<Continue dismantling conversation> <Stop dismantling conversation> <Other response>
+-Recipient responds with a relavent remark  of Question, Statement,
+ or Command									2)<'I will stop dismantling our conversation'> <'I will not stop dismantling our conversation> <'Tell me why you want me to stop dismantling our conversation'> <'What is the reason as to why you want me to stop dismantling our conversation?'>
