@@ -1,8 +1,8 @@
 #!/usr/bin/python
 
-import simple_botv2
+import simple_bot
 
-bot = simple_botv2.bot('Test_Bot', debug=True, cmdChar='!')
+bot = simple_bot.bot('Test_Bot', debug=True, cmdChar='!')
 
 bot.serve()
 
